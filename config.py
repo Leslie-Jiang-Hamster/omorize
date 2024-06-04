@@ -1,0 +1,1 @@
+wallpaper_dir = '/home/lsl/Pictures/bg/'
