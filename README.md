@@ -13,6 +13,8 @@ Some scripts to change your wallpaper to random omori fan arts! OMO
 python3 main.py
 ```
 
+Of course you can make it a crontab!
+
 # config
 
 Just change the `wallpaper_dir` in config.py to your background folder, full path required.
